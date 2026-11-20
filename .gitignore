@@ -65,3 +65,5 @@ temp/
 
 PulseM-backups/
 *.lck
+*.bkp
+
